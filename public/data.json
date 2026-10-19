@@ -1,0 +1,106 @@
+{
+  "personal": {
+    "name": "Saiful Islam",
+    "tagline": "Full-Stack & WordPress Developer",
+    "description": "Passionate Full-Stack and WordPress developer with 1.5+ years of experience building responsive, high-performance web applications and custom WordPress solutions.",
+    "email": "anik8187@gmail.com",
+    "phone": "01793085564",
+    "whatsapp": "01793085564",
+    "location": "Bangladesh",
+    "github": "https://github.com/saifulanik191",
+    "linkedin": "https://www.linkedin.com/in/saifulanik/",
+    "profileImage": "/saifulislamimg.JPG",
+    "profileImageAlt": "/picture of saiful islam.jpg",
+    "resume": "/Resume Of Saiful Islam .pdf",
+    "aboutText": "Hi! I'm Saiful Islam, a Full-Stack and WordPress developer based in Bangladesh with over 1.5 years of hands-on experience. My journey into programming began with a curiosity for how websites work, which quickly evolved into a deep passion for building them.\n\nI specialize in crafting pixel-perfect, user-friendly web applications using React.js, Next.js, TypeScript, and MongoDB on the technical side, along with WordPress, WooCommerce, and Elementor for content-driven sites and e-commerce solutions.\n\nI love solving complex problems and turning ideas into elegant digital experiences. Whether it's a custom WordPress theme, a dynamic React dashboard, or a full-stack web app — I enjoy every step of the process.\n\nOutside of coding, I have a deep love for nature and patience-driven hobbies. I practice the art of Bonsai cultivation, create miniature landscapes, and maintain indoor gardens — all of which teach me the same values I bring to development: precision, patience, and an eye for beauty."
+  },
+  "skills": [
+    { "category": "Frontend", "items": ["React.js", "Next.js", "TypeScript", "JavaScript", "HTML5", "CSS3", "Tailwind CSS"] },
+    { "category": "Backend & Database", "items": ["Node.js", "MongoDB", "REST APIs"] },
+    { "category": "WordPress", "items": ["WordPress", "WooCommerce", "Elementor", "Page Builders", "Custom Themes", "Plugins"] },
+    { "category": "Tools & Others", "items": ["Git", "GitHub", "VS Code", "Figma", "Vercel", "Netlify"] }
+  ],
+  "experience": [
+    {
+      "company": "Freelance / Self-Employed",
+      "role": "Full-Stack & WordPress Developer",
+      "duration": "2023 – Present",
+      "type": "Full-time",
+      "description": "Developing custom websites, WordPress solutions, and full-stack web applications for clients across various industries. Delivered 10+ projects including e-commerce stores, business websites, and web applications.",
+      "technologies": ["React.js", "Next.js", "WordPress", "WooCommerce", "Elementor", "MongoDB", "TypeScript"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "To be updated",
+      "degree": "Bachelor of Science / Diploma",
+      "field": "Computer Science / Information Technology",
+      "year": "2022 – Present",
+      "description": "Studying computer science fundamentals alongside practical web development skills."
+    }
+  ],
+  "projects": [
+    {
+      "id": "project-1",
+      "title": "E-Commerce WordPress Store",
+      "slug": "ecommerce-wordpress-store",
+      "type": "wordpress",
+      "shortDescription": "A fully functional e-commerce website built with WordPress and WooCommerce featuring custom product pages, payment gateway integration, and a mobile-responsive design.",
+      "description": "Developed a complete e-commerce solution using WordPress and WooCommerce. The store features custom product pages, multiple payment gateway integrations (bKash, card payments), order management, inventory tracking, and a fully responsive mobile-first design built with Elementor.",
+      "image": "/placeholder-project.jpg",
+      "liveLink": "https://example.com",
+      "githubLink": null,
+      "technologies": ["WordPress", "WooCommerce", "Elementor", "PHP", "MySQL", "CSS"],
+      "challenges": "Integrating local Bangladeshi payment gateways (bKash) with WooCommerce required custom plugin development and API configuration. Optimizing page load speed with heavy product images was another challenge solved through lazy loading and image compression.",
+      "improvements": "Planning to add AI-powered product recommendations, multi-vendor support, and a mobile app using React Native connected via WooCommerce REST API.",
+      "featured": true
+    },
+    {
+      "id": "project-2",
+      "title": "Business Website - WordPress",
+      "slug": "business-website-wordpress",
+      "type": "wordpress",
+      "shortDescription": "A professional multi-page business website with custom design, contact forms, SEO optimization, and a blog section built on WordPress.",
+      "description": "Created a modern, professional business website from scratch using WordPress. Features include a custom Elementor design, contact forms with email notifications, Google Maps integration, SEO optimization with Yoast, and a fully managed blog section for content marketing.",
+      "image": "/placeholder-project.jpg",
+      "liveLink": "https://example.com",
+      "githubLink": null,
+      "technologies": ["WordPress", "Elementor", "PHP", "Yoast SEO", "WP Forms", "CSS"],
+      "challenges": "Achieving the pixel-perfect design from the client's Figma mockup in Elementor while maintaining good performance scores was the main challenge. Custom CSS and careful optimization were key.",
+      "improvements": "Planning to add a customer portal section with login functionality and integrate a WhatsApp chat plugin for direct client communication.",
+      "featured": true
+    },
+    {
+      "id": "project-3",
+      "title": "React + Next.js Web Application",
+      "slug": "react-nextjs-web-app",
+      "type": "react",
+      "shortDescription": "A full-stack web application built with Next.js and MongoDB featuring authentication, dynamic content, and a modern responsive UI.",
+      "description": "A full-stack web application developed using Next.js 14 with App Router, TypeScript, and MongoDB. Features include user authentication with NextAuth.js, dynamic data fetching, protected routes, a clean dashboard, and full mobile responsiveness.",
+      "image": "/placeholder-project.jpg",
+      "liveLink": "https://github.com/saifulanik191",
+      "githubLink": "https://github.com/saifulanik191",
+      "technologies": ["Next.js", "TypeScript", "MongoDB", "React.js", "Tailwind CSS", "NextAuth.js"],
+      "challenges": "Implementing server-side rendering with dynamic data and managing authentication state across server and client components in Next.js App Router was complex. Understanding the new server/client component boundary took significant learning.",
+      "improvements": "Future plans include adding real-time notifications using WebSockets, a mobile app companion using React Native, and implementing Redis for caching to improve performance.",
+      "featured": true
+    }
+  ],
+  "hobbies": [
+    {
+      "title": "Bonsai Cultivation",
+      "description": "I practice the ancient art of Bonsai — shaping miniature trees with patience and precision. It teaches me focus and attention to detail.",
+      "image": "/hobby-bonsai.jpg"
+    },
+    {
+      "title": "Miniature Landscapes",
+      "description": "Creating tiny, detailed landscapes (terrarium & diorama style) that capture the beauty of nature in a small space.",
+      "image": null
+    },
+    {
+      "title": "Indoor Gardening",
+      "description": "Caring for a collection of indoor plants. It brings calm and greenery into my workspace and home.",
+      "image": null
+    }
+  ]
+}
